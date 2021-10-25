@@ -1,6 +1,8 @@
 [submodule "invasiveFE"]
 	path = invasiveFE
 	url = https://github.com/MoreMilkPerMilk/invasiveFE.git
+	branch = master
 [submodule "invasiveBE"]
 	path = invasiveBE
 	url = https://github.com/MoreMilkPerMilk/invasiveBE.git
+	branch = master
