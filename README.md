@@ -36,9 +36,9 @@ See the `invasiveBE` submodule:
 
 ## Setup 
 
-1. Clone `hami-sh/invasiveFE` and `hami-sh/invasiveBE`
-2. Install frontend requirements with `flutter pub get` in `invasiveFE`
-3. Install backend requirements with `pip install -r requirements.txt` in `invasiveBE`
+1. Clone this repo with `git clone --recurse-submodules https://github.com/MoreMilkPerMilk/uproot.git` to get all the code for the project
+2. Install frontend requirements with `cd invasiveFE`, then `flutter pub get` in `invasiveFE`
+3. Install backend requirements with `cd invasiveBE`, then `pip install -r requirements.txt` in `invasiveBE`
 4. Run the backend with `python app.py`
 5. Install a release / debug build of the Flutter app on whatever device you please with 
    `flutter run`. Check Flutter docs for more info.
