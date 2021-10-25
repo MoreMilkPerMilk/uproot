@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="images/logo.png" height="200"/>
+  <img src="images/logo.png" />
 </p>
 
 > A wholistic solution to the identification and removal of invasive species by 
 > both the community and the council.
 
-## Stack 
-### Frontend
+# Stack 
+## Frontend
  
 See the `invasiveFE` submodule:
 
@@ -18,7 +18,7 @@ See the `invasiveFE` submodule:
 
 `camera` - Camera & Image Stream support in flutter
 
-### Backend
+## Backend
 
 See the `invasiveBE` submodule:
 
@@ -54,24 +54,26 @@ See the `invasiveBE` submodule:
 * Robert Hardgrove
 * Carl Shield
 
-## Images
-### Camera
+# Images
+## Camera
 <p align="center">
-  <img src="images/0_camera.png" width="200">
-  <img src="images/1_detection.png" width="200">
+  <img src="images/0_camera.PNG" width="200">
+  <img src="images/1_detection.PNG" width="200">
   <br>
 </p>
 
-### Map
+## Map
 <p align="center">
-  <img src="images/3_map.png" width="200">
-  <img src="images/6_map_marker.png" width="200">
+  <img src="images/3_map.PNG" width="200">
+  <img src="images/6_map_marker.PNG" width="200">
   <br>
+  <img src="images/4_report_impact.PNG" width="200">
+  <img src="images/5_councils.PNG" width="200">
 </p>
 
-### Report Page
+## User and Report Pages
 <p align="center">
-  <img src="images/0_camera.png" width="200">
-  <img src="images/1_detection.png" width="200">
+  <img src="images/8_userPage.PNG" width="200">
+  <img src="images/7_report_page.PNG" width="200">
   <br>
 </p>
