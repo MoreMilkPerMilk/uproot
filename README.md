@@ -39,7 +39,7 @@ See the `invasiveBE` submodule:
 1. Clone this repo with `git clone --recurse-submodules https://github.com/MoreMilkPerMilk/uproot.git` to get all the code for the project
 2. Install frontend requirements with `cd invasiveFE`, then `flutter pub get` in `invasiveFE`
 3. Install backend requirements with `cd invasiveBE`, then `pip install -r requirements.txt` in `invasiveBE`
-4. Run the backend with `python app.py`
+4. Run the backend with `./start.sh`
 5. Install a release / debug build of the Flutter app on whatever device you please with 
    `flutter run`. Check Flutter docs for more info.
 
