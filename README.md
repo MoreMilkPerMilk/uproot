@@ -53,3 +53,25 @@ See the `invasiveBE` submodule:
 ### Design
 * Robert Hardgrove
 * Carl Shield
+
+## Images
+### Camera
+<p align="center">
+  <img src="images/0_camera.png" width="200">
+  <img src="images/1_detection.png" width="200">
+  <br>
+</p>
+
+### Map
+<p align="center">
+  <img src="images/3_map.png" width="200">
+  <img src="images/6_map_marker.png" width="200">
+  <br>
+</p>
+
+### Report Page
+<p align="center">
+  <img src="images/0_camera.png" width="200">
+  <img src="images/1_detection.png" width="200">
+  <br>
+</p>
