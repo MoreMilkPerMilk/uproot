@@ -45,14 +45,14 @@ See the `invasiveBE` submodule:
 
 ## Credits
 ### Programming
-* Hamish Bultitude
-* James Tobler
-* Djamahl Etchegaray
-* Joe Holownia
+* [@hami-sh](https://github.com/hami-sh) | Hamish Bultitude 
+* [@j-tobler](https://github.com/j-tobler) | James Tobler
+* [@djamahl99](https://github.com/djamahl99) | Djamahl Etchegaray
+* [@JoeHolownia](https://github.com/JoeHolownia) | Joe Holownia
 
 ### Design
+* [@flambosa44](https://github.com/flambosa44) | Carl Shield
 * Robert Hardgrove
-* Carl Shield
 
 # Images
 ## Camera
