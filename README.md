@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" />
+  <img src="images/logo.png" height="200"/>
 </p>
 
 > A wholistic solution to the identification and removal of invasive species by 
