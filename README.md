@@ -2,7 +2,7 @@
   <img src="images/logo.png" width="500"/>
 </p>
 
-> A wholistic solution to the identification and removal of invasive species by 
+> A holistic solution to the identification and removal of invasive species by 
 > both the community and the council.
 
 # Stack 
@@ -38,10 +38,10 @@ See the `invasiveBE` submodule:
 
 1. Clone this repo with `git clone --recurse-submodules https://github.com/MoreMilkPerMilk/uproot.git` to get all the code for the project
 2. Install frontend requirements with `cd invasiveFE`, then `flutter pub get` in `invasiveFE`
-3. Install backend requirements with `cd invasiveBE`, then `pip install -r requirements.txt` in `invasiveBE`
-4. Run the backend with `./start.sh`
-5. Install a release / debug build of the Flutter app on whatever device you please with 
-   `flutter run`. Check Flutter docs for more info.
+3. Run `flutter doctor` to check your install status & devices connected to your computer (can be iOS, Android, Web)
+4. Install & run a release / debug build of the Flutter app the device of your choice with `flutter run -d <device-name`. Check Flutter docs for more info.
+4. Install backend requirements with `cd invasiveBE`, then `pip install -r requirements.txt` in `invasiveBE`
+5. Run the backend with `./start.sh`
 
 ## Credits
 ### Programming
