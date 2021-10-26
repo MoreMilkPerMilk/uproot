@@ -43,6 +43,12 @@ See the `invasiveBE` submodule:
 4. Install backend requirements with `cd invasiveBE`, then `pip install -r requirements.txt` in `invasiveBE`
 5. Run the backend with `./start.sh`
 
+## Kickstarter Video
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=WiFl0PsZQGg"><img src="https://img.youtube.com/vi/WiFl0PsZQGg/0.jpg" alt="IMAGE ALT TEXT" width=300></a>
+</div>
+
+
 ## Credits
 ### Programming
 * [@hami-sh](https://github.com/hami-sh) | Hamish Bultitude 
